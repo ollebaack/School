@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\olle\desktop\doa_lesson_time\main.cpp(92): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  doa_lesson_time.vcxproj -> C:\Users\Olle\Desktop\doa_lesson_time\Debug\doa_lesson_time.exe
+  doa_lesson_time.vcxproj -> C:\Users\Olle\Desktop\doa_lesson_time\Debug\doa_lesson_time.pdb (Full PDB)

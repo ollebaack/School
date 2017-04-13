@@ -1,0 +1,7 @@
+﻿  Main.cpp
+Main.cpp(59): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Generating code
+  All 27 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Tenta v7.vcxproj -> c:\users\olle\documents\visual studio 2015\Projects\Tenta v7\Release\Tenta v7.exe
+  Tenta v7.vcxproj -> c:\users\olle\documents\visual studio 2015\Projects\Tenta v7\Release\Tenta v7.pdb (Full PDB)

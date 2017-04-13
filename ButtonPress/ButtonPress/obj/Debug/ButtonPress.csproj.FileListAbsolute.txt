@@ -1,0 +1,9 @@
+C:\Users\Olle\AppData\Local\Temporary Projects\ButtonPress\bin\Debug\ButtonPress.exe.config
+C:\Users\Olle\AppData\Local\Temporary Projects\ButtonPress\bin\Debug\ButtonPress.exe
+C:\Users\Olle\AppData\Local\Temporary Projects\ButtonPress\bin\Debug\ButtonPress.pdb
+C:\Users\Olle\AppData\Local\Temporary Projects\ButtonPress\obj\Debug\ButtonPress.csprojResolveAssemblyReference.cache
+C:\Users\Olle\AppData\Local\Temporary Projects\ButtonPress\obj\Debug\ButtonPress.Form1.resources
+C:\Users\Olle\AppData\Local\Temporary Projects\ButtonPress\obj\Debug\ButtonPress.Properties.Resources.resources
+C:\Users\Olle\AppData\Local\Temporary Projects\ButtonPress\obj\Debug\ButtonPress.csproj.GenerateResource.Cache
+C:\Users\Olle\AppData\Local\Temporary Projects\ButtonPress\obj\Debug\ButtonPress.exe
+C:\Users\Olle\AppData\Local\Temporary Projects\ButtonPress\obj\Debug\ButtonPress.pdb

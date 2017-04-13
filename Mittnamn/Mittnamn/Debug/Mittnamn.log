@@ -1,0 +1,4 @@
+﻿LINK : warning LNK4076: invalid incremental status file 'C:\Users\Olle\documents\visual studio 2015\Projects\Mittnamn\Debug\Mittnamn.ilk' (which will be deleted); linking nonincrementally
+Main.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:LBR' specification
+  Mittnamn.vcxproj -> C:\Users\Olle\documents\visual studio 2015\Projects\Mittnamn\Debug\Mittnamn.exe
+  Mittnamn.vcxproj -> C:\Users\Olle\documents\visual studio 2015\Projects\Mittnamn\Debug\Mittnamn.pdb (Partial PDB)

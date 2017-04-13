@@ -1,0 +1,4 @@
+ArticleRegister
+
+Article: (1,  olle, 1000)
+Article: (1,  adam, 234)

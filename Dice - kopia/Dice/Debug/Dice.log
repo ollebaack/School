@@ -1,0 +1,4 @@
+﻿  Dice.cpp
+c:\users\olle\documents\visual studio 2015\projects\dice\dice\dice.cpp(13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Dice.vcxproj -> c:\users\olle\documents\visual studio 2015\Projects\Dice\Debug\Dice.exe
+  Dice.vcxproj -> c:\users\olle\documents\visual studio 2015\Projects\Dice\Debug\Dice.pdb (Partial PDB)

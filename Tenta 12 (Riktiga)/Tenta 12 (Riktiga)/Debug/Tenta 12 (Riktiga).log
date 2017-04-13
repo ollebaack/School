@@ -1,0 +1,6 @@
+﻿  Main.cpp
+c:\users\olle\documents\visual studio 2015\projects\tenta 12 (riktiga)\tenta 12 (riktiga)\statistic.h(109): warning C4018: '<': signed/unsigned mismatch
+c:\users\olle\documents\visual studio 2015\projects\tenta 12 (riktiga)\tenta 12 (riktiga)\test.h(168): warning C4018: '<': signed/unsigned mismatch
+c:\users\olle\documents\visual studio 2015\projects\tenta 12 (riktiga)\tenta 12 (riktiga)\main.cpp(48): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Tenta 12 (Riktiga).vcxproj -> C:\Users\Olle\Documents\Visual Studio 2015\Projects\Tenta 12 (Riktiga)\Debug\Tenta 12 (Riktiga).exe
+  Tenta 12 (Riktiga).vcxproj -> C:\Users\Olle\Documents\Visual Studio 2015\Projects\Tenta 12 (Riktiga)\Debug\Tenta 12 (Riktiga).pdb (Partial PDB)

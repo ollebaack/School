@@ -1,0 +1,4 @@
+Studentregister
+
+Student: (Olle,Back,20)
+Student: (Hejsan,Ball,23)

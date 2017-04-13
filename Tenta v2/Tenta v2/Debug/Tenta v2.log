@@ -1,0 +1,9 @@
+﻿  Main.cpp
+c:\users\olle\documents\visual studio 2015\projects\tenta v2\tenta v2\statistics.h(55): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+c:\users\olle\documents\visual studio 2015\projects\tenta v2\tenta v2\statistics.h(94): warning C4018: '<': signed/unsigned mismatch
+c:\users\olle\documents\visual studio 2015\projects\tenta v2\tenta v2\statistics.h(98): warning C4018: '<': signed/unsigned mismatch
+c:\users\olle\documents\visual studio 2015\projects\tenta v2\tenta v2\statistics.h(103): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+c:\users\olle\documents\visual studio 2015\projects\tenta v2\tenta v2\main.cpp(27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\olle\documents\visual studio 2015\projects\tenta v2\tenta v2\main.cpp(41): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  Tenta v2.vcxproj -> C:\Users\Olle\Documents\Visual Studio 2015\Projects\Tenta v2\Debug\Tenta v2.exe
+  Tenta v2.vcxproj -> C:\Users\Olle\Documents\Visual Studio 2015\Projects\Tenta v2\Debug\Tenta v2.pdb (Partial PDB)

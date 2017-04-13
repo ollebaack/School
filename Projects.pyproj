@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" DefaultTargets="Build">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{9e5af048-b5e5-4cb2-8e08-54e90825e0eb}</ProjectGuid>
+    <ProjectHome />
+    <StartupFile />
+    <SearchPath />
+    <WorkingDirectory>.</WorkingDirectory>
+    <OutputPath>.</OutputPath>
+    <ProjectTypeGuids>{888888a0-9f3d-457c-b088-3a5042f75d52}</ProjectTypeGuids>
+    <LaunchProvider>Standard Python launcher</LaunchProvider>
+    <InterpreterId />
+    <InterpreterVersion />
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)' == 'Debug'" />
+  <PropertyGroup Condition="'$(Configuration)' == 'Release'" />
+  <PropertyGroup>
+    <VisualStudioVersion Condition=" '$(VisualStudioVersion)' == '' ">10.0</VisualStudioVersion>
+    <PtvsTargetsFile>$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets</PtvsTargetsFile>
+  </PropertyGroup>
+  <ItemGroup>
+    <Content Include="ButtonPress\ButtonPress\obj\Debug\ButtonPress.csproj.FileListAbsolute.txt" />
+    <Content Include="Multimedia\Multimedia\SongList.txt" />
+    <Content Include="MyGame\MyGame\bin\Debug\Background.jpg" />
+    <Content Include="MyGame\MyGame\bin\Debug\Stick-Figure Jump.jpg" />
+    <Content Include="MyGame\MyGame\bin\Debug\Stick-Figure Left.jpg" />
+    <Content Include="MyGame\MyGame\bin\Debug\Stick-Figure Right.jpg" />
+    <Content Include="MyGame\MyGame\bin\Debug\Stick-Figure Stående 2.jpg" />
+    <Content Include="MyGame\MyGame\obj\Debug\MyGame.csproj.FileListAbsolute.txt" />
+    <Content Include="Snake\Snake\obj\Debug\Snake.csproj.FileListAbsolute.txt" />
+    <Content Include="Tenta 2\test.txt" />
+    <Content Include="Tenta i OOP.txt" />
+    <Content Include="Tenta i OOP\Tenta i OOP.txt" />
+    <Content Include="Tenta i OOP\Tenta i OOP\test.txt" />
+    <Content Include="Tenta1\Tenta1\test.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="PyLabb1\PyLabb1\NewFolder1\PyLabb2.py" />
+    <Compile Include="PyLabb1\PyLabb1\PyLabb1.py" />
+    <Compile Include="PyLabb1\PyLabb1\PyLabb2.py" />
+    <Compile Include="Python\Python\Python.py" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="ButtonPress\" />
+    <Folder Include="ButtonPress\ButtonPress\" />
+    <Folder Include="ButtonPress\ButtonPress\obj\" />
+    <Folder Include="ButtonPress\ButtonPress\obj\Debug" />
+    <Folder Include="Multimedia\" />
+    <Folder Include="Multimedia\Multimedia" />
+    <Folder Include="MyGame\" />
+    <Folder Include="MyGame\MyGame\" />
+    <Folder Include="MyGame\MyGame\bin\" />
+    <Folder Include="MyGame\MyGame\bin\Debug" />
+    <Folder Include="MyGame\MyGame\obj\" />
+    <Folder Include="MyGame\MyGame\obj\Debug" />
+    <Folder Include="PyLabb1\" />
+    <Folder Include="PyLabb1\PyLabb1" />
+    <Folder Include="PyLabb1\PyLabb1\NewFolder1" />
+    <Folder Include="Python\" />
+    <Folder Include="Python\Python" />
+    <Folder Include="Snake\" />
+    <Folder Include="Snake\Snake\" />
+    <Folder Include="Snake\Snake\obj\" />
+    <Folder Include="Snake\Snake\obj\Debug" />
+    <Folder Include="Tenta 2" />
+    <Folder Include="Tenta i OOP" />
+    <Folder Include="Tenta i OOP\Tenta i OOP" />
+    <Folder Include="Tenta1\" />
+    <Folder Include="Tenta1\Tenta1" />
+  </ItemGroup>
+  <Import Project="$(PtvsTargetsFile)" Condition="Exists($(PtvsTargetsFile))" />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.Common.targets" Condition="!Exists($(PtvsTargetsFile))" />
+</Project>

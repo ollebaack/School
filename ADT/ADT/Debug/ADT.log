@@ -1,0 +1,4 @@
+﻿  Main-Mätvärden.cpp
+c:\users\olle\documents\visual studio 2015\projects\adt\adt\interval.h(80): warning C4715: 'Course::adt::operator/': not all control paths return a value
+  ADT.vcxproj -> C:\Users\Olle\documents\visual studio 2015\Projects\ADT\Debug\ADT.exe
+  ADT.vcxproj -> C:\Users\Olle\documents\visual studio 2015\Projects\ADT\Debug\ADT.pdb (Partial PDB)

@@ -1,0 +1,62 @@
+﻿  Main.cpp
+c:\users\olle\documents\visual studio 2015\projects\tenta 1 i oop\tenta 1 i oop\articleregister.h(16): error C2065: 'Article': undeclared identifier
+c:\users\olle\documents\visual studio 2015\projects\tenta 1 i oop\tenta 1 i oop\articleregister.h(16): error C2923: 'std::vector': 'Article' is not a valid template type argument for parameter '_Ty'
+c:\users\olle\documents\visual studio 2015\projects\tenta 1 i oop\tenta 1 i oop\articleregister.h(16): error C3203: 'allocator': unspecialized class template can't be used as a template argument for template parameter '_Alloc', expected a real type
+c:\users\olle\documents\visual studio 2015\projects\tenta 1 i oop\tenta 1 i oop\articleregister.h(19): error C2061: syntax error: identifier 'Article'
+c:\users\olle\documents\visual studio 2015\projects\tenta 1 i oop\tenta 1 i oop\articleregister.h(25): error C2061: syntax error: identifier 'Article'
+c:\users\olle\documents\visual studio 2015\projects\tenta 1 i oop\tenta 1 i oop\article.h(12): error C2059: syntax error: 'using namespace'
+c:\users\olle\documents\visual studio 2015\projects\tenta 1 i oop\tenta 1 i oop\article.h(12): error C2238: unexpected token(s) preceding ';'
+c:\users\olle\documents\visual studio 2015\projects\tenta 1 i oop\tenta 1 i oop\articleregister.h(11): error C2059: syntax error: 'using namespace'
+c:\users\olle\documents\visual studio 2015\projects\tenta 1 i oop\tenta 1 i oop\articleregister.h(11): error C2238: unexpected token(s) preceding ';'
+c:\users\olle\documents\visual studio 2015\projects\tenta 1 i oop\tenta 1 i oop\articleregister.h(13): error C3769: 'ArticleRegister': a nested class cannot have the same name as the immediately enclosing class
+c:\users\olle\documents\visual studio 2015\projects\tenta 1 i oop\tenta 1 i oop\main.cpp(12): error C2059: syntax error: 'using namespace'
+c:\users\olle\documents\visual studio 2015\projects\tenta 1 i oop\tenta 1 i oop\main.cpp(12): error C2238: unexpected token(s) preceding ';'
+c:\users\olle\documents\visual studio 2015\projects\tenta 1 i oop\tenta 1 i oop\articleregister.h(13): fatal error C1075: the left brace '{' was unmatched at the end of the file
+  ArticleRegister.cpp
+c:\users\olle\documents\visual studio 2015\projects\tenta 1 i oop\tenta 1 i oop\articleregister.h(16): error C2065: 'Article': undeclared identifier
+c:\users\olle\documents\visual studio 2015\projects\tenta 1 i oop\tenta 1 i oop\articleregister.h(16): error C2923: 'std::vector': 'Article' is not a valid template type argument for parameter '_Ty'
+c:\users\olle\documents\visual studio 2015\projects\tenta 1 i oop\tenta 1 i oop\articleregister.h(16): error C3203: 'allocator': unspecialized class template can't be used as a template argument for template parameter '_Alloc', expected a real type
+c:\users\olle\documents\visual studio 2015\projects\tenta 1 i oop\tenta 1 i oop\articleregister.h(19): error C2061: syntax error: identifier 'Article'
+c:\users\olle\documents\visual studio 2015\projects\tenta 1 i oop\tenta 1 i oop\articleregister.h(25): error C2061: syntax error: identifier 'Article'
+c:\users\olle\documents\visual studio 2015\projects\tenta 1 i oop\tenta 1 i oop\article.h(12): error C2059: syntax error: 'using namespace'
+c:\users\olle\documents\visual studio 2015\projects\tenta 1 i oop\tenta 1 i oop\article.h(12): error C2238: unexpected token(s) preceding ';'
+c:\users\olle\documents\visual studio 2015\projects\tenta 1 i oop\tenta 1 i oop\articleregister.h(11): error C2059: syntax error: 'using namespace'
+c:\users\olle\documents\visual studio 2015\projects\tenta 1 i oop\tenta 1 i oop\articleregister.h(11): error C2238: unexpected token(s) preceding ';'
+c:\users\olle\documents\visual studio 2015\projects\tenta 1 i oop\tenta 1 i oop\articleregister.h(13): error C3769: 'ArticleRegister': a nested class cannot have the same name as the immediately enclosing class
+c:\users\olle\documents\visual studio 2015\projects\tenta 1 i oop\tenta 1 i oop\articleregister.cpp(12): error C2059: syntax error: 'using namespace'
+c:\users\olle\documents\visual studio 2015\projects\tenta 1 i oop\tenta 1 i oop\articleregister.cpp(12): error C2238: unexpected token(s) preceding ';'
+c:\users\olle\documents\visual studio 2015\projects\tenta 1 i oop\tenta 1 i oop\articleregister.h(13): fatal error C1075: the left brace '{' was unmatched at the end of the file
+  Article.cpp
+c:\users\olle\documents\visual studio 2015\projects\tenta 1 i oop\tenta 1 i oop\articleregister.h(16): error C2065: 'Article': undeclared identifier
+c:\users\olle\documents\visual studio 2015\projects\tenta 1 i oop\tenta 1 i oop\articleregister.h(16): error C2923: 'std::vector': 'Article' is not a valid template type argument for parameter '_Ty'
+c:\users\olle\documents\visual studio 2015\projects\tenta 1 i oop\tenta 1 i oop\articleregister.h(16): error C3203: 'allocator': unspecialized class template can't be used as a template argument for template parameter '_Alloc', expected a real type
+c:\users\olle\documents\visual studio 2015\projects\tenta 1 i oop\tenta 1 i oop\articleregister.h(19): error C2061: syntax error: identifier 'Article'
+c:\users\olle\documents\visual studio 2015\projects\tenta 1 i oop\tenta 1 i oop\articleregister.h(25): error C2061: syntax error: identifier 'Article'
+c:\users\olle\documents\visual studio 2015\projects\tenta 1 i oop\tenta 1 i oop\article.h(12): error C2059: syntax error: 'using namespace'
+c:\users\olle\documents\visual studio 2015\projects\tenta 1 i oop\tenta 1 i oop\article.h(12): error C2238: unexpected token(s) preceding ';'
+c:\users\olle\documents\visual studio 2015\projects\tenta 1 i oop\tenta 1 i oop\articleregister.h(11): error C2059: syntax error: 'using namespace'
+c:\users\olle\documents\visual studio 2015\projects\tenta 1 i oop\tenta 1 i oop\articleregister.h(11): error C2238: unexpected token(s) preceding ';'
+c:\users\olle\documents\visual studio 2015\projects\tenta 1 i oop\tenta 1 i oop\articleregister.h(13): error C3769: 'ArticleRegister': a nested class cannot have the same name as the immediately enclosing class
+c:\users\olle\documents\visual studio 2015\projects\tenta 1 i oop\tenta 1 i oop\article.cpp(12): error C2059: syntax error: 'using namespace'
+c:\users\olle\documents\visual studio 2015\projects\tenta 1 i oop\tenta 1 i oop\article.cpp(12): error C2238: unexpected token(s) preceding ';'
+c:\users\olle\documents\visual studio 2015\projects\tenta 1 i oop\tenta 1 i oop\article.cpp(15): error C3254: 'ArticleRegister::ArticleRegister': class contains explicit override '{ctor}' but does not derive from an interface that contains the function declaration
+c:\users\olle\documents\visual studio 2015\projects\tenta 1 i oop\tenta 1 i oop\article.cpp(15): error C2838: '{ctor}': illegal qualified name in member declaration
+c:\users\olle\documents\visual studio 2015\projects\tenta 1 i oop\tenta 1 i oop\article.cpp(25): error C3254: 'ArticleRegister::ArticleRegister': class contains explicit override 'Write' but does not derive from an interface that contains the function declaration
+c:\users\olle\documents\visual studio 2015\projects\tenta 1 i oop\tenta 1 i oop\article.cpp(25): error C2838: 'Write': illegal qualified name in member declaration
+c:\users\olle\documents\visual studio 2015\projects\tenta 1 i oop\tenta 1 i oop\article.cpp(32): error C3254: 'ArticleRegister::ArticleRegister': class contains explicit override 'Read' but does not derive from an interface that contains the function declaration
+c:\users\olle\documents\visual studio 2015\projects\tenta 1 i oop\tenta 1 i oop\article.cpp(32): error C2838: 'Read': illegal qualified name in member declaration
+c:\users\olle\documents\visual studio 2015\projects\tenta 1 i oop\tenta 1 i oop\article.cpp(41): error C3254: 'ArticleRegister::ArticleRegister': class contains explicit override 'main_upg1' but does not derive from an interface that contains the function declaration
+c:\users\olle\documents\visual studio 2015\projects\tenta 1 i oop\tenta 1 i oop\article.cpp(41): error C2838: 'main_upg1': illegal qualified name in member declaration
+c:\users\olle\documents\visual studio 2015\projects\tenta 1 i oop\tenta 1 i oop\article.cpp(54): error C3254: 'ArticleRegister::ArticleRegister': class contains explicit override 'main_upg2' but does not derive from an interface that contains the function declaration
+c:\users\olle\documents\visual studio 2015\projects\tenta 1 i oop\tenta 1 i oop\article.cpp(54): error C2838: 'main_upg2': illegal qualified name in member declaration
+c:\users\olle\documents\visual studio 2015\projects\tenta 1 i oop\tenta 1 i oop\article.cpp(70): error C3254: 'ArticleRegister::ArticleRegister': class contains explicit override '{ctor}' but does not derive from an interface that contains the function declaration
+c:\users\olle\documents\visual studio 2015\projects\tenta 1 i oop\tenta 1 i oop\article.cpp(70): error C2838: '{ctor}': illegal qualified name in member declaration
+c:\users\olle\documents\visual studio 2015\projects\tenta 1 i oop\tenta 1 i oop\article.cpp(75): error C3254: 'ArticleRegister::ArticleRegister': class contains explicit override '{dtor}' but does not derive from an interface that contains the function declaration
+c:\users\olle\documents\visual studio 2015\projects\tenta 1 i oop\tenta 1 i oop\article.cpp(75): error C2838: '{dtor}': illegal qualified name in member declaration
+c:\users\olle\documents\visual studio 2015\projects\tenta 1 i oop\tenta 1 i oop\article.cpp(79): error C2804: binary 'operator <<' has too many parameters
+c:\users\olle\documents\visual studio 2015\projects\tenta 1 i oop\tenta 1 i oop\article.cpp(79): error C2333: 'ArticleRegister::ArticleRegister::operator <<': error in function declaration; skipping function body
+c:\users\olle\documents\visual studio 2015\projects\tenta 1 i oop\tenta 1 i oop\article.cpp(89): error C2804: binary 'operator >>' has too many parameters
+c:\users\olle\documents\visual studio 2015\projects\tenta 1 i oop\tenta 1 i oop\article.cpp(89): error C2333: 'ArticleRegister::ArticleRegister::operator >>': error in function declaration; skipping function body
+c:\users\olle\documents\visual studio 2015\projects\tenta 1 i oop\tenta 1 i oop\article.cpp(111): error C2238: unexpected token(s) preceding ';'
+c:\users\olle\documents\visual studio 2015\projects\tenta 1 i oop\tenta 1 i oop\articleregister.h(13): fatal error C1075: the left brace '{' was unmatched at the end of the file
+  Generating Code...

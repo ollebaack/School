@@ -1,0 +1,4 @@
+﻿  Main.cpp
+c:\users\olle\documents\visual studio 2015\projects\trådspel\trådspel\game.h(40): warning C4018: '<': signed/unsigned mismatch
+  TrådSpel.vcxproj -> c:\users\olle\documents\visual studio 2015\Projects\TrådSpel\Debug\TrådSpel.exe
+  TrådSpel.vcxproj -> c:\users\olle\documents\visual studio 2015\Projects\TrådSpel\Debug\TrådSpel.pdb (Partial PDB)

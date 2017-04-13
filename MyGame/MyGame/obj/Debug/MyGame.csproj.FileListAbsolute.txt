@@ -1,0 +1,19 @@
+C:\Users\Olle\AppData\Local\Temporary Projects\MyGame\bin\Debug\MyGame.exe.config
+C:\Users\Olle\AppData\Local\Temporary Projects\MyGame\obj\Debug\MyGame.csprojResolveAssemblyReference.cache
+C:\Users\Olle\AppData\Local\Temporary Projects\MyGame\obj\Debug\MyGame.Form1.resources
+C:\Users\Olle\AppData\Local\Temporary Projects\MyGame\obj\Debug\MyGame.Properties.Resources.resources
+C:\Users\Olle\AppData\Local\Temporary Projects\MyGame\obj\Debug\MyGame.csproj.GenerateResource.Cache
+C:\Users\Olle\AppData\Local\Temporary Projects\MyGame\bin\Debug\MyGame.exe
+C:\Users\Olle\AppData\Local\Temporary Projects\MyGame\bin\Debug\MyGame.pdb
+C:\Users\Olle\AppData\Local\Temporary Projects\MyGame\obj\Debug\MyGame.exe
+C:\Users\Olle\AppData\Local\Temporary Projects\MyGame\obj\Debug\MyGame.pdb
+C:\Users\Olle\Documents\Visual Studio 2015\Projects\MyGame\MyGame\bin\Debug\MyGame.exe.config
+C:\Users\Olle\Documents\Visual Studio 2015\Projects\MyGame\MyGame\obj\Debug\MyGame.exe
+C:\Users\Olle\Documents\Visual Studio 2015\Projects\MyGame\MyGame\obj\Debug\MyGame.pdb
+C:\Users\Olle\Documents\Visual Studio 2015\Projects\MyGame\MyGame\bin\Debug\MyGame.exe
+C:\Users\Olle\Documents\Visual Studio 2015\Projects\MyGame\MyGame\bin\Debug\MyGame.pdb
+C:\Users\Olle\Documents\Visual Studio 2015\Projects\MyGame\MyGame\obj\Debug\MyGame.Properties.Resources.resources
+C:\Users\Olle\Documents\Visual Studio 2015\Projects\MyGame\MyGame\obj\Debug\MyGame.csproj.GenerateResource.Cache
+C:\Users\Olle\Documents\Visual Studio 2015\Projects\MyGame\MyGame\obj\Debug\MyGame.form2.resources
+C:\Users\Olle\Documents\Visual Studio 2015\Projects\MyGame\MyGame\obj\Debug\MyGame.Form1.resources
+C:\Users\Olle\Documents\Visual Studio 2015\Projects\MyGame\MyGame\obj\Debug\MyGame.csprojResolveAssemblyReference.cache

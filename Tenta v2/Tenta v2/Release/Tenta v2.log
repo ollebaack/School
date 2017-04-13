@@ -1,0 +1,10 @@
+﻿  Main.cpp
+c:\users\olle\documents\visual studio 2015\projects\tenta v2\tenta v2\Statistics.h(96): warning C4018: '<': signed/unsigned mismatch
+c:\users\olle\documents\visual studio 2015\projects\tenta v2\tenta v2\Statistics.h(102): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+Main.cpp(25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Main.cpp(39): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  All 207 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Tenta v2.vcxproj -> C:\Users\Olle\Documents\Visual Studio 2015\Projects\Tenta v2\Release\Tenta v2.exe
+  Tenta v2.vcxproj -> C:\Users\Olle\Documents\Visual Studio 2015\Projects\Tenta v2\Release\Tenta v2.pdb (Full PDB)

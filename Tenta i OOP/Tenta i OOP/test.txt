@@ -1,0 +1,4 @@
+EnergyConsumption:
+
+EnergyConsumption: (Olle, 10, 21, 1996-04-17/10:20:30, 2016-04-17/10:20:30)
+EnergyConsumption: (Adam, 10, 21, 1997-04-17/10:20:30, 2017-04-17/10:20:30)
